@@ -10,9 +10,18 @@
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
   // Formatter
-  "[html][liquid]": {
-    "editor.defaultFormatter": "Shopify.theme-check-vscode"
+  // "[html][liquid]": {
+  //   "editor.defaultFormatter": "Shopify.theme-check-vscode"
+  // },
+  "[html]": {
+  "editor.defaultFormatter": "Shopify.theme-check-vscode"
   },
+  "[liquid]": {
+  "editor.defaultFormatter": "Shopify.theme-check-vscode"
+  },
+
+
+
   "[shellscript]": {
     "editor.defaultFormatter": "mkhl.shfmt"
   },
