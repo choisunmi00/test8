@@ -14,10 +14,10 @@
   //   "editor.defaultFormatter": "Shopify.theme-check-vscode"
   // },
   "[html]": {
-  "editor.defaultFormatter": "Shopify.theme-check-vscode"
+    "editor.defaultFormatter": "Shopify.theme-check-vscode"
   },
   "[liquid]": {
-  "editor.defaultFormatter": "Shopify.theme-check-vscode"
+    "editor.defaultFormatter": "Shopify.theme-check-vscode"
   },
 
 
